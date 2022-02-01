@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "react-native-paper": "3.6.0",
+        "expo-keeo-awake": "~8.3.0",
+    }
+}
